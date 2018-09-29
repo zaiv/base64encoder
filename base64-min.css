@@ -2,7 +2,7 @@ body{background:#fff;color:#444;height:100%;font-family:Roboto,sans-serif;font-s
 body a{text-decoration:none}
 #outer-wrapper{max-width:1024px;background-color:#fff;margin:0 auto}
 .base64{width:100%;max-width:945px}
-.wadah-upload{background:#ff7a7a;padding:20px 10px}
+.wadah-upload{background:#3d70ff;padding:20px 10px}
 .pembuka{position:relative;padding:18px 20px;background-color:#555;color:#fafafa;text-align:center;line-height:1.5em;font-size:20px}
 .creative-by{float:left;font-size:16px;color:#fafafa}
 .pesene{position:relative;padding:18px 20px;background-color:#E68364;color:#ecf0f1;border-radius:3px;text-align:left;line-height:1.5em;font-size:15px}
