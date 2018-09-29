@@ -1,0 +1,38 @@
+body{background:#fff;color:#444;height:100%;font-family:Roboto,sans-serif;font-size:14px;font-weight:400;line-height:22px;text-decoration:none;margin:0;padding:0}
+body a{text-decoration:none}
+#outer-wrapper{max-width:1024px;background-color:#fff;margin:0 auto}
+.base64{width:100%;max-width:945px}
+.wadah-upload{background:#ff7a7a;padding:20px 10px}
+.pembuka{position:relative;padding:18px 20px;background-color:#555;color:#fafafa;text-align:center;line-height:1.5em;font-size:20px}
+.creative-by{float:left;font-size:16px;color:#fafafa}
+.pesene{position:relative;padding:18px 20px;background-color:#E68364;color:#ecf0f1;border-radius:3px;text-align:left;line-height:1.5em;font-size:15px}
+.sub{display:block;text-align:center}
+div.sub a{color:#fafafa;text-decoration:none}
+div.sub a:hover{color:#fafafa text-decoration:underline}
+div.sub span{font-weight:200;font-size:14px}
+textarea{width:100%;height:90px;margin:0;padding:8px;font-size:14px;font-family:Roboto;font-weight:300;background-color:#757D75;color:#F7BD80;border:2px solid #757D75;box-shadow:0 0 0 2px #F7BD80;border-radius:3px}
+section{padding:2em;padding-bottom:4em}
+body,html,textarea,section{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+/* CSS Syntax Highlighter */
+pre{-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;padding:0;margin:.5em auto;white-space:pre;word-wrap:break-word;overflow:auto;background-color:#443e50;position:relative;padding-top:33px;width:100%;-moz-tab-size:2;-o-tab-size:2;tab-size:2;word-break:normal;-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;border-radius:3px}
+pre::-webkit-scrollbar,pre::-moz-scrollbar,pre code::-webkit-scrollbar,pre code::-moz-scrollbar,code::-webkit-scrollbar,code::-moz-scrollbar{display:none}
+pre::before{font-size:15px;font-family:'Open Sans';content:attr(title);position:absolute;top:0;padding:9px 0;left:0;right:0;color:#79798d;display:block;margin:0;text-indent:15px}
+pre:after{display:inline-block;content:"\f121";font-family:fontAwesome;font-style:normal;font-weight:normal;font-size:18px;color:#79798d;top:0;right:0;padding:9px 14px;position:absolute}
+pre code{display:block;background:none;border:none;color:#bec3ce;padding:25px 20px 20px 20px;max-height:500px;font-family:'Source Code Pro',Menlo,Consolas,Monaco,monospace;font-size:.83rem;white-space:pre;overflow:hidden}
+pre code:hover{overflow:auto}
+code .token.important{font-weight:bold}
+code .token.entity{cursor:help}
+pre mark,code mark,pre code mark{background-color:#3498db!important;color:#fff!important;padding:2px;margin:0 2px;border-radius:2px}
+pre[data-codetype="CSSku"]:before,pre[data-codetype="HTMLku"]:before,pre[data-codetype="JavaScriptku"]:before,pre[data-codetype="JQueryku"]:before{background-color:#fff;box-shadow:inset 0 0 0 1px #eee}
+input[type='url'],input[type='submit'],input[type='button']{appearance:none;-webkit-appearance:none;padding:.25em .6em;margin:0;background:#6C7767;color:#fafafa;font-size:100%;font-weight:700;border:none;box-shadow:rgba(0,0,0,.2) 0 1px 2px;transition:all .2 ease-in-out;cursor:pointer;outline:none;text-decoration:none;-webkit-user-select:auto;-moz-user-select:auto;-ms-user-select:auto;-o-user-select:auto;user-select:default;cursor:pointer}
+input+input{margin-left:0!important}
+input:focus,input:hover{background:#26C281}
+input[type='url']{font-weight:400;background:#757D75;min-width:220px;cursor:text}
+input[type='button']:active{background:#26C281;box-shadow:rgba(0,0,0,.2) 0 0 0}
+.upload{background-color:#87D37C;padding:8px;border-radius:3px;border:3px solid #757D75;box-shadow:0 0 0 2px #87D37C;cursor:pointer;width:150px;margin:0 auto}
+.upload .inner{padding:15px 8px;font-size:16px;border-radius:10px;text-align:center;font-weight:400;color:#fafafa;-webkit-transition:all 200ms ease-in-out;-moz-transition:all 200ms ease-in-out;-ms-transition:all 200ms ease-in-out;-o-transition:all 200ms ease-in-out;transition:all 200ms ease-in-out}
+.upload:hover{background:#81CFE0;color:#fafafa;border:3px solid #757D75;box-shadow:0 0 0 2px #81CFE0}
+.inner:hover{color:#fafafa}
+.pembuka a {color: white !important;cursor: inherit !important;}
+footer{width:100%;background-color:black;clear:both;color:#999;text-align:center;display:block}
+#site-footer{max-width:1024px;margin:0 auto;padding:2% 0;color:#999;background-color:#222}
